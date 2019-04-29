@@ -1,0 +1,266 @@
+<resources>
+    <string name="app_name">NoSdkDemo</string>
+    <string-array name="rat_en">
+        <item>You live in abundance. Do not begreedy otherwise you can become muddle.Beself reliant and conceited.</item>
+        <item>You are coward, lovable,gentle,abundant support from key people,generous and intelligent.</item>
+        <item>Be calm when come to catastrophe.Content is happiness. Be successfulin later year.</item>
+        <item>You have a poor and busy life. Be dependent on yourself. Be careful ofvilains. Canbe helpedby understandinghusband or loving wife and be successful in the middle aged year.</item>
+    </string-array>
+    <string-array name="rat_zh">
+        <item>当食之间，丰衣足食，如食量大，往往心生糊涂。自强心高,依命为正。</item>
+        <item>当胆大怕惊，终是小胆略,一生令人可爱，文雅温和，可得贵人多助，处世大方，脑海聪敏。</item>
+        <item>大则不平之事，能致死于非命，小则不平之事，可能出家，次之必成庸人。只是平心静气，知足常乐，晚年兴旺。</item>
+        <item>一生衣禄轻淡，劳碌奔波，不得贵人，处处遇难，不时小人捣乱，惊险重重得良夫贤妻扶助，中年出头。</item>
+    </string-array>
+
+    <string-array name="cattle_zh">
+        <item>待时出力，虽目前运滞，后日当有福，自有大用。</item>
+        <item>此人闻惊迫急，心猿意马，时欲出头肯干，不得其权，自我心强，一生胆大，无人能阻。</item>
+        <item>自由自在，到处可居无难，虽有些险岩风波，得能彼岸，他日自有盈余，独立心强。</item>
+        <item>忙忙碌碌，东走西奔，劳苦无休息，名不得时。</item>
+
+    </string-array>
+    <string-array name="cattle_en">
+        <item>Although have the bad fortune, you
+will certainly be lucky and be
+successful in the future.</item>
+        <item>You are fiery, willing to work hard,
+but not good brains.You are pride
+and great courage, not afraid of
+anyone.</item>
+        <item>You live comfortable, able to adapt
+to the environment. Despite the
+some small difficulties encountered,
+but can be overcome. Very independent,
+and doubtless will be successful.</item>
+        <item>You are always very busy and work
+hard, but have no time to rest.</item>
+
+    </string-array>
+
+    <string-array name="tiger_zh">
+        <item>万象更新，虎跃虎威，名扬四海，家运隆昌，富贵吉祥，子孝孙贤。</item>
+        <item> 自成权威，受人敬仰,冲天之势 立大功劳 青云有路 当际风云之会，必承雨露之恩，门庭新气象，堂宇换规模。</item>
+        <item>自食其力，有尊严风度 进退能自由，文武兼能，胆略过人，建立基业 性格刚强，白手成家 富贵成功。</item>
+        <item>脾气刚强 意志坚强，跋山涉水之苦 如折枝之易，赴汤蹈火之难，在所有辞，能克服万难，凡事可成矣。
+</item>
+    </string-array>
+    <string-array name="tiger_en">
+        <item>    You are very famous person, be born with a silver spoon in one's mouth. Grandchildren are fealty.
+</item>
+        <item>    Be Successful in your life. Be highly esteemed. Have meris and achievements.
+</item>
+        <item>  You are independent, have royal bearing, as a man one should afford to take up things and let them go easily. Be versed in both civil and military affairs. Excel in courage. Be ;
+    successful.</item>
+        <item>    You are a man of castiron will, be firm of purpose, can endure hardships .Having overcome countless hardships.Succeed in everything.
+</item>
+    </string-array>
+
+
+    <string-array name="rabbit_zh">
+        <item>奔波用功 忙忙碌碌，终日若得，尚称命运高</item>
+        <item>    聪敏活泼，有冲天之势，如月之恒，如日之升，智略权谋，势如破竹，凡谋必遂，能成大业，一生幸福长发其祥
+</item>
+        <item>    事业顺利发达，经营风顺，受人重视，有宇宙之大精神 互助合作，处世有情，待人接物，恭恭有礼 大吉大利
+</item>
+        <item>    男女聪敏显耀，逍遥自在，清高显耀，青云之志，白屋之人，不难求望，诸凡遂心。
+</item>
+    </string-array>
+    <string-array name="rabbit_en">
+        <item>    You live a busy life，be studious,lacking good fortune.
+</item>
+        <item>    You are intelligent, lively, be a born leader. Have menits and achievements.Full of resource and astuteness,succeed in everything. You will be happy in your life, longevity.
+</item>
+        <item>    Succeed in you business. You are admired greatly by others.Be tolerant. Dedicated,reliable and team player leader. The way you get along with people is courteous.
+</item>
+        <item>    You are inteligent, free and unrestrained.Profess to be aloof from politics and material pursuit. Although leading a virtuous life, you have great ambition.
+</item>
+    </string-array>
+
+
+
+    <string-array name="dragon_zh">
+        <item>    志向远大，努力即能成功,经常救助他人，遇事易有波折。
+</item>
+        <item>    谋事难，病弱身;进退维谷,有破几之苦
+</item>
+        <item>    事事成就，福禄悠久。胆量才谋过人，健康，有德望，功利荣达
+</item>
+        <item>    英杰才人，云游四海，乐于交友;连科及第一举成名，享自然之幸福。
+</item>
+    </string-array>
+    <string-array name="dragon_en">
+        <item>    You are ambitions,make efforts that can be successful, often help others, and do things not smoothly.
+</item>
+        <item>    You do things difficulty, have an ilness body.
+</item>
+        <item>    Do things suocessful, have a happy life.You are resourcefulness, health,will succeed in business.
+</item>
+        <item>    You are talent,like to travel and making friend. You are good at study, and can be famous.
+        </item>
+    </string-array>
+
+
+
+
+
+    <string-array name="snake_zh">
+        <item>    四出有路，但经风霜之苦难免事事如麻，每每欲一-步登天，时机未到。
+</item>
+        <item>    性情不高 志气萎顿， 作事懒成，独立难持， 总请高，亦是寒懦，禄薄福轻，烦事缠绵。
+</item>
+        <item>    聪敏巧能，一举成名，为国之贤，功在四方，利达三江，能成大事大业，多劳多功，精神爽快，谋事诸遂。
+</item>
+        <item>    精气浩大，威震四方，雅量敦厚,秉性聪明，地位权贵至高，有大志大能，侠义心肠，众人敬仰，受天之福。
+</item>
+    </string-array>
+    <string-array name="snake_en">
+        <item>    You have many things to do in your life. You need to wait for your time to come.
+</item>
+        <item>    You are lazy to work,like to do things by yourself. You do not have much money, and have to face many troubles.
+</item>
+        <item>    You are smart, famous, succeed in business,happy spirit, do things smoothly.
+</item>
+        <item>    You are smart,at high authority position. You are ambitions, admired by others, lucky by nature.
+</item>
+    </string-array>
+
+
+
+
+    <string-array name="hourse_zh">
+        <item>    活龙活虎,欣欣向荣，一生少得尝 新之机。为人表里如一，品德性正，缄默寡言，喜欢交友，欢乐人生。
+</item>
+        <item>    创基立业，千辛万苦，家道兴隆 福禄得长生。
+</item>
+        <item>    灵感过人，聪敏至极，技巧艺术超人，有日必得贵人助，诱人之力特强,一生无大灾害。清平闲静，安乐少愁。
+</item>
+        <item>    技艺智谋过人，文武兼全,胆大心虚，德高义衙，感情和合，有志气，凡事逐渐成功，俊气才能，英杰才人。
+</item>
+    </string-array>
+    <string-array name="hourse_en">
+        <item>    You have active force.You are silence, good person, like making friends, have a happy life.
+</item>
+        <item>    You work very hard to have a successful carrier. You will have a long life.
+</item>
+        <item>   You are smart, siled, others will help you in your life.You are at bractive, have no disasters in your life.</item>
+        <item>    You are smart, intelligence, ambitious,do things successful.
+</item>
+    </string-array>
+
+
+    <string-array name="sheep_zh">
+        <item>    能免于是非纷争，但天灾地变常遇, 晦气多多。
+</item>
+        <item>    聪敏出众，财源利达，万事吉祥，衣食必侠，富贵健康，享自然之幸,名利双全，能成大事业。
+</item>
+        <item>    财丰利足，权势必高，所谋如意,出言有音，意志坚定，脚踏实地 能统率众人，受人之难，亦受敬仰。
+</item>
+        <item>    受天之福 名种荣达，进退无难，处世和平，合谋志同道合，言而有信; 家运隆昌，荣华一世 晚享子福。
+</item>
+    </string-array>
+    <string-array name="sheep_en">
+        <item>    Avoid conflict, but you face many disasters in your life.
+</item>
+        <item>    You are smart, wealth had health,succeed in business, and gain both fame and wealth， notworried in your whole life.
+</item>
+        <item>    You are rich and have power, can be a good leader and admired by others.
+</item>
+        <item>    You are lucky by nature, have a peace life, rich and have a happy family.
+</item>
+    </string-array>
+
+
+
+
+    <string-array name="monkey_zh">
+        <item>    活跃力甚佳，精神爽快，事业出外，浮沉小病难免。
+</item>
+        <item>    多忧惊怪，难化愚顽，虽有雨露之因 官居不久，而事宜囊箧空虚。
+</item>
+        <item>    才能智技过人，江湖有伴，乡邻有田，婚姻美满，终身是幸，稼穑难成经营可企，凡事顺来逆去，改祸呈祥，前途光明。
+</item>
+        <item>    东奔西跑，赴汤蹈火，奋斗有企，衣禄轻淡,待人接物 恭敬有礼，进退自如 诸谋可成，是非口舌小有，一生承享自力自食，自求自谋也。
+</item>
+    </string-array>
+    <string-array name="monkey_en">
+        <item>    You have active force,generous spirit, good career, unavoidable ailment.
+</item>
+        <item>    You are Easy to worry and be trouble,very stubborn. Although someone may help you in business, you need to proceed with caution.
+</item>
+        <item>    You are smart, have many friends,rich, and have a happy marriage, a bright future.
+</item>
+        <item>    You are a busy man, polite, succeed in your business, often have conflict with others, do your business by own.
+</item>
+    </string-array>
+
+
+
+    <string-array name="chicken_zh">
+        <item>    具有敏锐的直觉，才智也不错，且精于打算，甚为健谈，因此颇受人欢迎。
+</item>
+        <item>    是个爱好自由，十分厌恶束缚的人，凡事不肯让步，喜欢力争到底。出入自由,精神愉快，气满腔足，终身作事有成，心平义仁，到老求谋顺利，清高寒儒
+</item>
+        <item>    是个勤勉而温和的人，但是凡事过于小心，做事缺乏魄力。朋友较少，生活的圈子也较窄，为人诚实,是最佳的总务人选
+</item>
+        <item>    感情十分丰富又敏感,对于细小的事也会哭泣或发怒，也是一个喜欢计划的人，但美中不足的是缺乏耐心，常常前功尽弃。足衣足食，四处皆粮，不力可餐，秋光照景,优秀聪敏，元志操坚固勤勉自立，能有盈余，五谷满仓，大旺全收，一生衣食可卜。
+</item>
+    </string-array>
+    <string-array name="chicken_en">
+        <item>    You have keen intuition.Your wisdom is also good, very talkative,and therefore quite popular.
+</item>
+        <item>    You love freedom, loathe bondage,all things not willing to concede, like strive to exactly.Succeed in business.
+</item>
+        <item>    You are a diigent and mild person,but do things too careful. Less Friends,honest, you are the best candidate for general affairs.
+</item>
+        <item>    Your affection is very rich and sensitive,a small matter may cause cry or angry. You like to plan things, but are lack of patience, often have been wasted.
+</item>
+    </string-array>
+
+
+
+    <string-array name="dog_zh">
+        <item>    具有悠然的心性且重感情。需要默默努力，一步一步向前迈进，才能开创自己的锦绣前程。
+</item>
+        <item>    一旦定下目标之后，却能接受而努力不懈，个性外向、乐观且开朗，人缘佳而受人爱戴。
+</item>
+        <item>    精神旺盛，能将理想和现实划分清楚。在文化、艺术方面有特长，喜欢帮助朋友。
+</item>
+        <item>    喜欢讲理论，好思索，时常以思想家自居，野心大，充满热情而又有积极的奋斗力。
+</item>
+    </string-array>
+    <string-array name="dog_en">
+        <item>    You have carefree mind and deep in emotive. Need labored, one step one step forward, to start your own bright future.
+</item>
+        <item>    Once set a goal, you can accept and try hard. You are outgoing,optimistic and cheerful, popularity and beloved.
+</item>
+        <item>    You have high spirit, can divide ideal and reality division clearly.You are good at culture and arts,likes to help friends.
+</item>
+        <item>    You are like to talk theory, good thinking, often to pose thinkers,ambition, enthusiastic and positive struggling force.
+</item>
+    </string-array>
+
+
+
+
+    <string-array name="pig_zh">
+        <item>    长生在望，聪敏至贤，威尊望重,利路亨通，有自然之幸福，名利双收，能成大事业。
+</item>
+        <item>    能成大功，人杰地灵，再兴再望,家声克振，定家门第 秉性聪慧,有天赋之美德，精力充沛，吉庆终世也。
+</item>
+        <item>    秉性聪敏，职位权贵高尚，虽出有章，但亦有此微困，立足实地，可成大志，无上吉祥。
+</item>
+        <item>    衣食丰盈，一生不力自事，不迁就他之事，自专独裁，凡事一帆风顺，势力强大，吉祥通临，定然成功。
+</item>
+    </string-array>
+    <string-array name="pig_en">
+        <item>    You will have a long life, gain both fame and wealth， and to be a success man.
+</item>
+        <item>    You are smart, will be a success man and revitalize your family.
+</item>
+        <item>    You are smart and can be a powerful man.
+</item>
+        <item>    You are a rich man. You can make decision by yourself. Everything in your life is going smoothly.
+</item>
+    </string-array>
+</resources>
