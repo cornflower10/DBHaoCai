@@ -18,8 +18,22 @@ bxvipqa=暴雪QA=com.bxvip.app.bxvipqa env=1 type=2 desc=发现新版本 a58f18e
 // demo 中国龙内部 测试包  演示使用
 demoapp1=中国龙内部测试=co.tiangongsky.bxsdk.demoapp1 env=1 type=2 desc=1.第一版测试 d73f39a36e5a3b948ef6fe7b copyLogo=sdk
 
-// 跳转（未开通） 马甲内容的测试包 测试包  演示使用
+// 跳转（未开通） 马甲内容的测试包 测试包  演示使用 360
 majiassc=生肖资料=com.fanlizhuanqian.wan env=1 type=2 desc=1.第一版测试 129d01b2f74fcfb985c0290b startPng=majiasscstart copyLogo=sdk
+// 跳转（未开通） 马甲内容的测试包 测试包  演示使用 360
+majiassc=生肖资料=com.fanlizhuanqian.wan env=1 type=2 desc=1.第一版测试 129d01b2f74fcfb985c0290b startPng=majiasscstart copyLogo=sdk
+// 跳转（未开通） 马甲内容的测试包 测试包  演示使用 360
+majiassc=生肖资料=com.fanlizhuanqian.wan env=1 type=2 desc=1.第一版测试 129d01b2f74fcfb985c0290b startPng=majiasscstart copyLogo=sdk
+
+// 跳转（未开通） 马甲内容的测试包 测试包  演示使用 360
+//majiassc=生肖资料=com.fanlizhuanqian.wan env=1 type=2 desc=1.第一版测试 129d01b2f74fcfb985c0290b startPng=majiasscstart copyLogo=sdk
+
+// 跳转（未开通） 马甲内容的测试包 测试包  演示使用 oppo
+//majiassc=生肖资料=com.shengxiao.oppo env=1 type=2 desc=1.第一版测试 9c402c446f71ff6b2914c922 startPng=majiasscstart copyLogo=sdk
+
+// 跳转（未开通） 马甲内容的测试包 测试包  演示使用 huawei
+majiassc=生肖资料=com.shengxiao.hw env=1 type=2 desc=1.第一版测试 a5ccf25c6f705f1b6b4c1cfb startPng=majiasscstart copyLogo=sdk
+
 
 // 扩展模式（jgChannel）！！！！这个是针对极光的多渠道配置的，如果使用这个模式打包,请上报你们的 plist-admin 管理员开启 jg_channel 配置
 // 使用这个形式 在后台开放的时候需要配置 渠道号方可生效(eg:开放xiaomi ，在plistadmin 后台jg_channel写上xiaomi)，如果不使用这个方案 请把 jgChannel=lvmeng;xiaomi;360 删除打包

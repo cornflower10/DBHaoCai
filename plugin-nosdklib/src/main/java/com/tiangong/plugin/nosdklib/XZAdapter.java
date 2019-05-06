@@ -10,19 +10,19 @@ import android.widget.ImageView;
 
 import java.util.List;
 
-public class HomeAdapter extends BaseAdapter {
+public class XZAdapter extends BaseAdapter {
 
 
     private List<Item> list;
     private LayoutInflater layoutInflater;
     private int type;
 
-    public HomeAdapter(Context context, List<Item> list) {
+    public XZAdapter(Context context, List<Item> list) {
         this.list = list;
         layoutInflater = LayoutInflater.from(context);
     }
 
-    public HomeAdapter(Context context, List<Item> list,int type) {
+    public XZAdapter(Context context, List<Item> list, int type) {
         this.list = list;
         layoutInflater = LayoutInflater.from(context);
         this.type = type;
@@ -47,7 +47,7 @@ public class HomeAdapter extends BaseAdapter {
     public View getView(int position, View convertView, ViewGroup parent) {
         ViewHolder holder = null;
         if (convertView == null) {
-            convertView = layoutInflater.inflate(R.layout.item, null);
+            convertView = layoutInflater.inflate(R.layout.xz_item, null);
             holder = new ViewHolder();
             holder.imageView = (ImageView) convertView.findViewById(R.id.iv);
             convertView.setTag(holder);

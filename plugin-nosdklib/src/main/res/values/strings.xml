@@ -78,7 +78,6 @@ hard, but have no time to rest.</item>
     </string-array>
 
 
-
     <string-array name="dragon_zh">
         <item>    志向远大，努力即能成功,经常救助他人，遇事易有波折。
 </item>
@@ -101,9 +100,6 @@ hard, but have no time to rest.</item>
     </string-array>
 
 
-
-
-
     <string-array name="snake_zh">
         <item>    四出有路，但经风霜之苦难免事事如麻，每每欲一-步登天，时机未到。
 </item>
@@ -124,8 +120,6 @@ hard, but have no time to rest.</item>
         <item>    You are smart,at high authority position. You are ambitions, admired by others, lucky by nature.
 </item>
     </string-array>
-
-
 
 
     <string-array name="hourse_zh">
@@ -171,8 +165,6 @@ hard, but have no time to rest.</item>
     </string-array>
 
 
-
-
     <string-array name="monkey_zh">
         <item>    活跃力甚佳，精神爽快，事业出外，浮沉小病难免。
 </item>
@@ -193,7 +185,6 @@ hard, but have no time to rest.</item>
         <item>    You are a busy man, polite, succeed in your business, often have conflict with others, do your business by own.
 </item>
     </string-array>
-
 
 
     <string-array name="chicken_zh">
@@ -218,7 +209,6 @@ hard, but have no time to rest.</item>
     </string-array>
 
 
-
     <string-array name="dog_zh">
         <item>    具有悠然的心性且重感情。需要默默努力，一步一步向前迈进，才能开创自己的锦绣前程。
 </item>
@@ -241,8 +231,6 @@ hard, but have no time to rest.</item>
     </string-array>
 
 
-
-
     <string-array name="pig_zh">
         <item>    长生在望，聪敏至贤，威尊望重,利路亨通，有自然之幸福，名利双收，能成大事业。
 </item>
@@ -263,4 +251,7 @@ hard, but have no time to rest.</item>
         <item>    You are a rich man. You can make decision by yourself. Everything in your life is going smoothly.
 </item>
     </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="2dp"
+    android:paddingTop="2dp"
+    android:background="@color/line"
+    tools:context="com.tiangong.plugin.nosdklib.MainActivity">
+
+ <com.tiangong.plugin.nosdklib.CusImageView
+     android:scaleType="fitXY"
+     android:layout_gravity="center"
+     android:paddingLeft="2dp"
+     android:id="@+id/iv"
+     android:background="@android:color/darker_gray"
+     android:layout_width="match_parent"
+     android:layout_height="match_parent" />
+
+</LinearLayout>
